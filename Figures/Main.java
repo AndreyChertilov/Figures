@@ -1,4 +1,3 @@
-package com.company;
 public class Main {
   public static void main(String[] args) {
      int squareSide = 3, parallelogramSide=2, fig;  //объявляем переменные и присваиваем значения в соответствии с заданием.

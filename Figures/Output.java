@@ -1,4 +1,3 @@
-package com.company;
 public class Output {
     public static void data(int fig, double result){
         String figure[] = {"квадрат", "треугольник", "параллелограмм"};
